@@ -9,6 +9,3 @@ Meu nome é Guilherme Aparecido
 - ### Você pode entrar em contato comigo 📪
 
 00001103968725sp@aluno.educacao.sp.gov.br
-
-
-![](https://media1.tenor.com/m/k0FTsUOZbbsAAAAd/sonic-floss.gif)
