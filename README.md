@@ -2,9 +2,9 @@
 
 Meu nome é Guilherme Aparecido 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando Desenvolvimento de Sistemas.
+- Estou me desenvolvendo na linguagem JavaScript, Python, Kotlin.
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 - ### Você pode entrar em contato comigo 📪
 
